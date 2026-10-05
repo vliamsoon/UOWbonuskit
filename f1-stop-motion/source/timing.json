@@ -1,0 +1,244 @@
+[
+ {
+  "scene": 0,
+  "speed": 210,
+  "sentences": [
+   [
+    0.15,
+    1.809,
+    "76 years of F1."
+   ],
+   [
+    1.929,
+    3.547,
+    "90 seconds. Let's go!"
+   ]
+  ]
+ },
+ {
+  "scene": 1,
+  "speed": 182,
+  "sentences": [
+   [
+    3.2,
+    4.93,
+    "1950, Silverstone."
+   ],
+   [
+    5.05,
+    7.003,
+    "The first World Championship race."
+   ],
+   [
+    7.123,
+    9.861,
+    "Front engine, skinny tyres, no seatbelts."
+   ],
+   [
+    9.981,
+    11.724,
+    "Fangio wins 5 titles."
+   ]
+  ]
+ },
+ {
+  "scene": 2,
+  "speed": 168,
+  "sentences": [
+   [
+    12.2,
+    14.495,
+    "Then Cooper moves the engine to the back."
+   ],
+   [
+    14.615,
+    17.66,
+    "By '68, wings and sponsor colours arrive."
+   ]
+  ]
+ },
+ {
+  "scene": 3,
+  "speed": 168,
+  "sentences": [
+   [
+    20.2,
+    21.97,
+    "The '70s get wild lah."
+   ],
+   [
+    22.09,
+    24.648,
+    "Ground effect sucks the car onto the road."
+   ],
+   [
+    24.768,
+    26.889,
+    "Tyrrell even races with 6 wheels!"
+   ]
+  ]
+ },
+ {
+  "scene": 4,
+  "speed": 168,
+  "sentences": [
+   [
+    28.2,
+    29.935,
+    "The '80s. Turbo era."
+   ],
+   [
+    30.055,
+    32.588,
+    "Over 1,000 hp in qualifying."
+   ],
+   [
+    32.708,
+    34.804,
+    "Senna vs Prost. Legendary."
+   ]
+  ]
+ },
+ {
+  "scene": 5,
+  "speed": 168,
+  "sentences": [
+   [
+    36.4,
+    37.812,
+    "Imola, 1994."
+   ],
+   [
+    37.932,
+    40.52,
+    "A dark weekend that made safety No. 1."
+   ]
+  ]
+ },
+ {
+  "scene": 6,
+  "speed": 168,
+  "sentences": [
+   [
+    42.1,
+    44.757,
+    "1999, F1 arrives in Malaysia."
+   ],
+   [
+    44.877,
+    45.371,
+    "SEPANG!"
+   ]
+  ]
+ },
+ {
+  "scene": 7,
+  "speed": 168,
+  "sentences": [
+   [
+    46.2,
+    47.378,
+    "The 2000s."
+   ],
+   [
+    47.498,
+    50.36,
+    "Schumacher & Ferrari win 5 titles in a row."
+   ],
+   [
+    50.48,
+    52.856,
+    "7 in total. Wah, unreal."
+   ]
+  ]
+ },
+ {
+  "scene": 8,
+  "speed": 168,
+  "sentences": [
+   [
+    54.2,
+    56.875,
+    "2014, the hybrid era begins."
+   ],
+   [
+    56.995,
+    58.976,
+    "Hamilton matches 7 titles."
+   ],
+   [
+    59.096,
+    61.309,
+    "And the halo starts saving lives."
+   ]
+  ]
+ },
+ {
+  "scene": 9,
+  "speed": 168,
+  "sentences": [
+   [
+    64.2,
+    68.306,
+    "2021. A last-lap title decider in Abu Dhabi."
+   ],
+   [
+    68.426,
+    71.544,
+    "Then ground effect returns. Verstappen rules."
+   ]
+  ]
+ },
+ {
+  "scene": 10,
+  "speed": 168,
+  "sentences": [
+   [
+    72.2,
+    74.309,
+    "And now, 2026."
+   ],
+   [
+    74.429,
+    75.913,
+    "Smaller, lighter cars."
+   ],
+   [
+    76.033,
+    77.666,
+    "Half the power is electric."
+   ],
+   [
+    77.786,
+    80.123,
+    "100% sustainable fuel."
+   ],
+   [
+    80.243,
+    81.185,
+    "Moving wings."
+   ],
+   [
+    81.305,
+    82.96,
+    "And 11 teams on the grid."
+   ]
+  ]
+ },
+ {
+  "scene": 11,
+  "speed": 175,
+  "sentences": [
+   [
+    84.2,
+    86.722,
+    "Which era is your favourite? Comment lah."
+   ],
+   [
+    86.842,
+    89.415,
+    "Follow @vliamsoon for Part 2!"
+   ]
+  ]
+ }
+]
