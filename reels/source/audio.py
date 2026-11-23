@@ -123,6 +123,7 @@ for k in range(3): ev(B+1.2+k*0.6,swish(),0.6); ev(B+1.5+k*0.6,ding(1568+k*200),
 ev(B+3.6,boom(),0.8); ev(B+3.6,sparkle(),0.9); ev(B+4.8,whoosh(0.4),0.6); ev(B+5.0,sparkle(),0.6); ev(B+6.0,ding(2093),0.6)
 for (t0,s,gn) in E: put(sfx,t0,s,gn)
 
+np.save(os.path.join(os.path.dirname(__file__),'mus.npy'),mus);np.save(os.path.join(os.path.dirname(__file__),'sfx.npy'),sfx)
 mix=mus*0.55+sfx*0.8
 mix=np.tanh(mix*1.1)/1.1
 mix/=np.max(np.abs(mix))*1.05
